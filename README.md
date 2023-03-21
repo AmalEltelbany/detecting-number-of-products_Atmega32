@@ -1,4 +1,6 @@
 # detecting-number-of-products_Atmega32
+[Untitled video - Screen Recording - 3_22_2023, 1_07_56 AM.webm](https://user-images.githubusercontent.com/112574745/226762244-7e25486c-a8c0-4a7b-8355-6be0e0f288b2.webm)
+
   Build an AVR based system to control a DC motor that controls a belt in a
 factory, the belt carries product for packaging. A sensor is fixed to detect
 products passing on the belt. There are 2 LEDs, a green one indicating that
